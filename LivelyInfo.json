@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Chill wallpaper",
+  "Thumbnail": "rqdhtoir.0uq.jpg",
+  "Preview": "qjeysb04.ym2.gif",
+  "Desc": "Essentially, this is a desktop wallpaper designed for **Lively Wallpaper**, built using HTML, CSS, and JavaScript.",
+  "Author": "Felix Mercado",
+  "License": "MIT",
+  "Contact": "",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": "--system-nowplaying",
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}

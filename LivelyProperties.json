@@ -1,0 +1,9 @@
+{
+  "imgSelect": {
+    "type": "folderDropdown",
+    "value": "wallpapers/b782d491b266c2d1ca92931679581d70.jpg",
+    "text": "Image or video (1920x1080 or relative and .mp4)",
+    "filter": "*.jpg|*.png|*.mp4",
+    "folder": "wallpapers"
+  }
+}
