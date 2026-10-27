@@ -5,5 +5,17 @@
     "text": "Image or video (1920x1080 or relative and .mp4)",
     "filter": "*.jpg|*.png|*.mp4",
     "folder": "wallpapers"
+  },
+  "where": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "Where do you want your music box?",
+    "items": ["top Left", "Top Right", "Bottom Left", "Bottom Right"]
+  },
+  "Anim": {
+    "type": "dropdown",
+    "value": 0,
+    "text": "Which animation do you want for your music box?",
+    "items": ["top Left", "Top Right", "Bottom Left", "Bottom Right"]
   }
 }

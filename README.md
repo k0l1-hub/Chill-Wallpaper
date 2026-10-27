@@ -24,6 +24,12 @@ If you'd like to customize it, tap the three-dot menu on the wallpaper; you can 
 
 AI is used only to help identify potential errors. All code is written by humans.
 
+## Contribution
+
+Feel free to send suggestions for improving this wallpaper and/or the original [Repository](https://github.com/lively-community/lively)!
+
 ## License
 
 This project is licensed under the **MIT License**. Anyone is free to use, modify, distribute, and even sell software incorporating this project, subject to the license terms.
+
+:D
