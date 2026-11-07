@@ -12,7 +12,7 @@ You can get it from the [official GitHub repository](https://github.com/lively-c
 
 Once you're in the app, tap the + button, enter this repo, and check out your wallpaper!
 
-If you'd like to customize it, tap the three-dot menu on the wallpaper; you can then add an .mp4 or .mov video, or any type of image (just make sure it’s 1920x1080p or has a similar aspect ratio).
+If you would like to customize it, tap the three-dot menu on the wallpaper; you can then add an .mp4 or .mov video, or any type of image (just make sure it is 1920x1080p or has a similar aspect ratio).
 
 ## Features
 
@@ -31,5 +31,8 @@ Feel free to send suggestions for improving this wallpaper and/or the original [
 ## License
 
 This project is licensed under the **MIT License**. Anyone is free to use, modify, distribute, and even sell software incorporating this project, subject to the license terms.
+
+## Attribution
+is greatly appreciated. If you use this project, mentioning the original author's name would be wonderful!
 
 :D
